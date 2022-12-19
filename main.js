@@ -22,7 +22,7 @@ let vacuum = null;
 let Map;
 const deviceList = {
 	//'mijia.vacuum.v2' : MiotVacuum, //  Modell: Xiaomi mijia g1
-	'dreame.vacuum.r2216o',' : ViomiManager, //  Modell: Xioami mijia 1c
+	'dreame.vacuum.r2216o': ViomiManager, //  Modell: Xioami mijia 1c
 	'viomi.vacuum.v7': ViomiManager,
 	'viomi.vacuum.v8': ViomiManager,
 	'viomi.vacuum.v19': ViomiManager, //test
